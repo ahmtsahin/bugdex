@@ -1,0 +1,11 @@
+{
+  "name": "bugdex",
+  "version": "0.1.0",
+  "description": "A monster-battle layer for your coding sessions: failing tests become wild bugs, fixes earn XP, and regression tests catch them for your Bugdex.",
+  "author": { "name": "Ahmet Sahin" },
+  "homepage": "https://github.com/ahmtsahin/bugdex",
+  "repository": "https://github.com/ahmtsahin/bugdex",
+  "license": "MIT",
+  "keywords": ["mod", "game", "testing", "bugdex"],
+  "types": "./types/index.d.ts"
+}

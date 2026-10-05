@@ -1,0 +1,12 @@
+{
+  "name": "bugdex",
+  "owner": { "name": "Ahmet Sahin" },
+  "description": "Bugdex: a monster-battle game layer for Claude Code sessions.",
+  "plugins": [
+    {
+      "name": "bugdex",
+      "source": "./",
+      "description": "A monster-battle layer for your coding sessions: failing tests become wild bugs, fixes earn XP, and regression tests catch them for your Bugdex."
+    }
+  ]
+}
